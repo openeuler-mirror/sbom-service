@@ -1,7 +1,7 @@
 # sbom-service
 
 #### 介绍
-A service named sbom-service, designed for generate、consume sbom.
+以服务化方式提供SBOM工具链解决方案。提供一站式服务：软件成分解析、协同数据卷积、安全合规分析、SBOM导入导出、漏洞排查、直接/传递性依赖查询等；并解耦于任一SBOM协议格式。
 
 #### 软件架构
 软件架构说明
@@ -9,9 +9,8 @@ A service named sbom-service, designed for generate、consume sbom.
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+docker运行，见使用说明。
+
 
 #### 使用说明
 
