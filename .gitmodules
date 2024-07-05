@@ -1,0 +1,3 @@
+[submodule "sbom-tools"]
+	path = sbom-tools
+	url = https://github.com/opensourceways/sbom-tools.git
